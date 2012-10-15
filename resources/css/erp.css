@@ -1,0 +1,195 @@
+#loading-mask{
+    background-color:white;
+    height:100%;
+    position:absolute;
+    left:0;
+    top:0;
+    width:100%;
+    z-index:20000;
+}
+#loading{
+    height:auto;
+    position:absolute;
+    left:45%;
+    top:40%;
+    padding:2px;
+    z-index:20001;
+}
+#loading a {
+    color:#225588;
+}
+#loading .loading-indicator{
+    background:white;
+    color:#444;
+    font:bold 13px Helvetica, Arial, sans-serif;
+    height:auto;
+    margin:0;
+    padding:10px;
+}
+#loading-msg {
+    font-size: 10px;
+    font-weight: normal;
+}
+
+.icon-user {
+
+	background-image: url('../images/user16.png') !important;
+}
+.icon-logout {
+
+	background-image: url('../images/salir.png') !important;
+}
+.icon-enterprise {
+
+	background-image: url('../images/enterprise16.png') !important;
+}
+
+.iconCuenta1 {
+    background-image: url('../images/iconCuenta1.png') !important;
+}
+
+.iconCuenta2 {
+
+	background-image: url('../images/iconCuenta2.png') !important;
+}
+
+.folderOpen {
+    background-image: url( ../images/folderOpen.png ) !important;
+}
+.folderClosed {
+    background-image: url( ../images/folderClosed.png ) !important;
+}
+
+.addAccount {
+    background-image: url( ../images/addAccount.png ) !important;
+}
+.editAccount {
+    background-image: url( ../images/editAccount.png ) !important;
+}
+.saveAccount {
+    background-image: url( ../images/saveAccount.png ) !important;
+}
+.cancelAccount {
+    background-image: url( ../images/cancelAccount.png ) !important;
+}
+.updateAccount {
+    background-image: url( ../images/updateAccount.png ) !important;
+}
+.associatedAccount {
+    background-image: url( ../images/associatedAccount.png ) !important;
+}
+
+.btnnew {
+    background-image: url('../images/addAccount.png') !important;
+}
+
+.btnsave{
+    background-image: url('../images/saveAccount.png') !important;
+}
+.btnedit{
+    background-image: url('../images/editAccount.png') !important;
+}
+.btncancel{
+    background-image: url('../images/cancelAccount.png') !important;
+}
+.btnaprobar{
+    background-image: url('../images/aprobar_16.png') !important;
+}
+.btnanular{
+    background-image: url('../images/anular_16.png') !important;
+}
+.btnimprimir{
+    background-image: url('../images/imprimir_16.png') !important;
+}
+.right{
+    background-image: url('../images/right_16.png') !important;
+}
+.right2{
+    background-image: url('../images/right2_16.png') !important;
+}
+.left{
+    background-image: url('../images/left_16.png') !important;
+}
+.icon-view {
+
+	background-image: url('../images/view.png') !important;
+}
+
+.x-tree-icon-parent{
+	width:16px;
+        background-image:url('../images/folderOpen.png')  !important;
+}
+
+.search-trigger {
+    background-image: url("../images/search-trigger.gif");
+    background-position: 0 0;
+    border-bottom: 1px solid #B5B8C8;
+    cursor: pointer;
+    height: 21px;
+    overflow: hidden;
+    width: 17px;
+}
+
+.price-fall td { 
+ background-color: #ffe4e1 !important;
+}
+
+.price-rise td {
+ background-color: #ffffff;
+}
+
+.debe td { 
+ background-color: #E6FEBF !important;
+}
+
+.haber td {
+ background-color: #FECC80 !important;
+}
+.totales {
+   font-size: 11px;
+	font-weight: bold;
+	color: #003;
+	
+}
+.revision td { 
+ background-color: #FCFC89 !important;
+}
+
+.transito td {
+ background-color: #85FC99 !important;
+}
+.anulado td { 
+ background-color: #FC898D !important;
+}
+.resaltarfila .x-grid-row-over .x-grid-cell-inner {
+	font-weight:bold;
+}
+.letralogin {
+    font-weight: bold;
+    color: #FFF;
+    font-size: 14px;
+}
+.task-folder1 {
+
+    background-image: url('../images/associatedAccount.png') !important;
+}
+.task1 {
+
+    background-image: url('../images/user16.png') !important;
+}
+.grupo {
+
+    background-image: url('../images/grupo.png') !important;
+}
+.empresa {
+
+    background-image: url('../images/empresa.png') !important;
+}
+.departamento {
+
+    background-image: url('../images/departamento.png') !important;
+}
+.jefe {
+
+    background-image: url('../images/jefe.png') !important;
+}
